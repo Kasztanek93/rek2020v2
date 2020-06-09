@@ -1,0 +1,265 @@
+<html lang="pl">
+<head>
+<meta charset="utf-8"/>
+<title>Profil 1a SLO</title>
+	<meta name="description" content="Strona o profilu 1a w SLO"/>
+	<meta name="keywords" content="SLO, moja szkoła"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<style>
+	body{
+	background-color:rgb(207, 146, 41);
+	}
+	h1:hover{
+	color:red}
+	h1 {
+	background-color: yellow
+	}
+	h1 {
+	color: purple}
+	h3{
+	text-align:center;
+	}
+	h3{
+	font-size: x-large
+	}
+#tabela {
+text-align:left;
+background-color:blue;
+font-size:20;
+width:100%;
+}
+.tabel {
+background-color:rgb(0,100,255);
+}
+
+	#slo {
+	text-align:center;
+	}
+	p{
+	text-align: center;
+	}
+	p{
+	font-size: x-large
+	}
+	li {
+	font-size: x-large
+	}
+
+p{
+	background-color: aqua
+	}
+	
+	h2{
+	color:blue}
+	td { 
+	border: 1px solid black; }
+	th { border: 1px solid black; } 
+	</style>
+	</head>
+	<body> 
+	
+	<h1 id="slo"> Profile w SLO w Stalowej Woli:</br> 1a- rozszerzone treści nauczania z j. polskiego, historii i wiedzy o społeczeństwie</h1>
+	<p><strong>Powinieneś wybrać klasę o takim nachyleniu przedmiotowym, jeśli:</strong> </br>
+	<ul>
+ <li><strong>chcesz rozwijać zainteresowania naukami humanistycznymi;</br></li>
+ <li>marzysz o podjęciu studiów humanistycznych lub społecznych (prawo, filologia polska,
+filozofia, dziennikarstwo, kulturoznawstwo, stosunki międzynarodowe, europeistyka),</br>
+na takich uczelniach jak: Uniwersytet Jagielloński, Uniwersytet Warszawski, Uniwersytet Rzeszowski, Uniwersytet Adama Mickiewicza w Poznaniu;</br></li>
+ <li>chcesz zmierzyć się z najlepszymi w Olimpiadzie Historycznej, Olimpiadzie Literatury
+i Języka Polskiego, Olimpiadzie „Losy Żołnierza i Dzieje Oręża Polskiego”;</br></li>
+ <li>interesują cię lekcje muzealne w Muzeum Powstania Warszawskiego, w Muzeum
+Regionalnym w Stalowej Woli, w Międzynarodowym Centrum Edukacji o Auschwitz i Holokauście;</br></li>
+<li> zamierzasz przystąpić do egzaminu maturalnego z języka polskiego, historii, wiedzy o społeczeństwie na poziomie rozszerzonym.</strong></br></li>
+</ul>
+</p>
+<h2>Przy rekrutacji do klasy 1A przedmioty punktowane to: język polski, matematyka,język obcy, historia/fizyka/biologia/geografia/chemia</h2>
+
+<h2>Plan Nauczania</h2>
+<table id="tabela">
+<thead>
+<tr>
+<th >Rok/Klasa</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tabel">j.polski</td>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+<th>4</th>
+</tr>
+<tr>
+<td class="tabel">j.angielski</td>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+</tr>
+<tr>
+<td class="tabel">j.niemiecki</td>
+<th>2(1j)</th>
+<th>2(1j)</th>
+<th>2(1j)</th>
+<th>2(1j)</th>
+</tr>
+<tr>
+<td class="tabel">j.francuski</td>
+<th>2(1j)</th>
+<th>2(1j)</th>
+<th>2(1j)</th>
+<th>2(1j)</th>
+</tr>
+<tr>
+<td class="tabel">matematyka</td>
+<th>3</th>
+<th>4</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<td class="tabel">wf</td>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+</tr>
+<tr>
+<td class="tabel">godz.wych</td>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr>
+<td class="tabel">biologia</td>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">chemia</td>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">geografia</td>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">historia</td>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr>
+<td class="tabel">wos</td>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">fizyka</td>
+<th>1</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">przedsięb.</td>
+<th></th>
+<th>1</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">plastyka</td>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<td class="tabel">informatyka</td>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">e_dla_bezp</td>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">religia</td>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr>
+<td class="tabel">wych.rodz.</td>
+<th>14r</th>
+<th>14r</th>
+<th>14r</th>
+<th></th>
+</tr>
+<tr>
+<td class="tabel">doradz.zaw.</td>
+<th>2r</th>
+<th>2r</th>
+<th>3r</th>
+<th>3r</th>
+</tr>
+<tr>
+<td class="tabel">r_chemia</td>
+<th>1</th>
+<th>2</th>
+<th>2</th>
+<th>3;1dyr</th>
+</tr>
+<tr>
+<td class="tabel">biologia</td>
+<th>1</th>
+<th>2</th>
+<th>2</th>
+<th>3;1dyr</th>
+</tr>
+<tr>
+<td class="tabel">r_biologia</td>
+<th>1</th>
+<th>2</th>
+<th>2</th>
+<th>3;1dyr</th>
+</tr>
+<tr>
+<td class="tabel">r_matematyka</td>
+<th>2</th>
+<th>1</th>
+<th>3</th>
+<th>3;1dyr</th>
+</tr>
+</table>
+
+
+
+
+
+
+
+</body>
+</html>
